@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      wtscarlett42
+HostName                       cadence-7.cae.tntech.edu
+ProcessIdentifier              20552
+ProcessCreationTime_UTC        1638796308
+ProcessCreationTime_Readable   Mon Dec  6 07:11:48 2021 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/tntech.edu/wtscarlett42/Digital_System_Design/Design_Assignment3/Full_Adder_Transmission_Gate/layout/layout.oa.cdslck
+TimeEditLocked                 Mon Dec  6 07:58:26 2021 CST

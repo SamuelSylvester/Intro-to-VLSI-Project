@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      svsylveste42
+HostName                       cadence-7.cae.tntech.edu
+ProcessIdentifier              3361
+ProcessCreationTime_UTC        1636826834
+ProcessCreationTime_Readable   Sat Nov 13 12:07:14 2021 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/tntech.edu/svsylveste42/Digital_System_Design/Design2/H2_sim/worst_cases/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sat Nov 13 13:30:03 2021 CST
